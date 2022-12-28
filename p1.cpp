@@ -6,8 +6,6 @@ using namespace std;
 #define ull unsigned long long
 #define ul unsigned long
 
-// MEDIUM
-// Inspired in: https://leetcode.com/problems/possible-bipartition/description/
 // CONTROL STRUCTURES
 #define F0R(i, a) for (int i=0; i<(a); i++)
 #define FIR(i, a) for (int i=1; i<(a); i++)

@@ -1,6 +1,3 @@
-// A polinomial use of successive bissection
-// EASY
-
 #include <bits/stdc++.h>
 using namespace std;
 #define ull unsigned long long
@@ -36,8 +33,6 @@ void solve() {
 
     double a, b, c, x1=1000, x2=-1000, x, error = 0.0000001;
     cin >> a >> b >> c;
-    //x1 = find_(a,b,c,true);
-    //x2 = find_(a,b,c,false);
     while(abs(x1-x2) > error){
         x = (x1+x2)/2; 
         if (eq(a,b,c,x1)*eq(a,b,c,x) < 0) x2 = x; 
