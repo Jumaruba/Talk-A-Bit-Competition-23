@@ -1,0 +1,14 @@
+1 0 7305
+2 30 78
+3 64 68
+4 None
+5 None
+6 None
+7 None
+8 None
+9 14 17
+10 4 7
+11 None
+12 None
+13 0 0
+14 None

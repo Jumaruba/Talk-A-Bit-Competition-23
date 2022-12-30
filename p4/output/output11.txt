@@ -1,0 +1,19 @@
+1 2218 2791
+2 26 30
+3 None
+4 None
+5 15 41
+6 16 23
+7 35 41
+8 None
+9 None
+10 None
+11 None
+12 0 7
+13 None
+14 None
+15 57 86
+16 None
+17 None
+18 8 15
+19 None

@@ -21,10 +21,10 @@ end
 
 
 function execute -a SOURCE
-    set TESTS (count ./$SOURCE/in/*.in)  
+    set TESTS (count ./$SOURCE/input/*.txt)  
     set_color blue
     for i in (seq 1 $TESTS)
-        ./a.out < ./$SOURCE/in/$i.in > ./$SOURCE/out/$i.out
+        ./a.out < ./$SOURCE/input/input$i.txt > ./$SOURCE/output/output$i.txt
         echo "[GENERATED] Test $i"
     end 
     set_color normal

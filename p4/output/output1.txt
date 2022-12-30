@@ -1,0 +1,11 @@
+1 372 6350
+2 2 8
+3 0 12
+4 None
+5 None
+6 None
+7 None
+8 63 93
+9 None
+10 None
+11 None
